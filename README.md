@@ -3,7 +3,7 @@
 🔒 **Cybersecurity Enthusiast | SOC Analyst / Pentester | Future OSCP**
 
 ---
-I’m a cybersecurity enthusiast with hands-on experience in defensive and offensive security tools, passionate about protecting digital assets and solving real-world security challenges. Ongoing constant training at THM.
+I’m a cybersecurity enthusiast with hands-on experience in defensive and offensive security tools, passionate about protecting digital assets and solving real-world security challenges. Constantly undergoing training at THM.
 
 ---
 **Defensive Skills**
