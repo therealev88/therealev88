@@ -1,9 +1,9 @@
 **Holla!**
 
-🔒 **Cybersecurity Enthusiast | SOC Analyst / Pentester | Future OSCP**
+🔒 **Data Analyst | Cybersecurity | Future OSCP**
 
 ---
-I’m a cybersecurity enthusiast with hands-on experience in defensive and offensive security tools, passionate about protecting digital assets and solving real-world security challenges. Constantly undergoing training at THM.
+Data Analyst with hands-on experience in Python, SQL, data cleaning, exploratory data analysis, and workfl ow automation. Experienced in distributed AI systems support, Linux administration, and cybersecurity fundamentals. Proven ability to work independently in remote environments, analyze structured data, troubleshoot technical issues, and optimize operational processes. Seeking remote contract roles in Data Analysis, AI Operations, and Technical Support.
 
 ---
 **Defensive Skills**
